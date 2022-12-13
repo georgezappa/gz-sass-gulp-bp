@@ -1,0 +1,35 @@
+{
+  "name": "html5-sass-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "A html5, sass, gulp boilerplate with live reload.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danillosl/html5-sass-gulp-boilerplate.git"
+  },
+  "keywords": [
+    "html",
+    "html5",
+    "sass",
+    "scss",
+    "css",
+    "gulp",
+    "live",
+    "reload"
+  ],
+  "author": "danillo lisboa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danillosl/html5-sass-gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/danillosl/html5-sass-gulp-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
